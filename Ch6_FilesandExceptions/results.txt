@@ -1,0 +1,7 @@
+Mary: 85.0
+Jerry: 82.5
+Berry: 93.75
+Larry: 95.0
+Gary: 90.0
+Fairy: 85.0
+Scary: 73.75
